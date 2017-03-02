@@ -2,10 +2,6 @@
 Wing Chum  
 
 
-```r
-knitr::opts_chunk$set(echo = TRUE)
-library(ggplot2)
-```
 
 ## Loading and preprocessing the data
 
